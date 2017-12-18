@@ -1,6 +1,6 @@
 C:\Code\dotNet_PluralSight\FundamentalsWithVisualStudio2015\Grades\Grades\Grades\bin\Debug\Grades.exe.config
 C:\Code\dotNet_PluralSight\FundamentalsWithVisualStudio2015\Grades\Grades\Grades\bin\Debug\Grades.exe
 C:\Code\dotNet_PluralSight\FundamentalsWithVisualStudio2015\Grades\Grades\Grades\bin\Debug\Grades.pdb
-C:\Code\dotNet_PluralSight\FundamentalsWithVisualStudio2015\Grades\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
 C:\Code\dotNet_PluralSight\FundamentalsWithVisualStudio2015\Grades\Grades\Grades\obj\Debug\Grades.exe
 C:\Code\dotNet_PluralSight\FundamentalsWithVisualStudio2015\Grades\Grades\Grades\obj\Debug\Grades.pdb
+C:\Code\dotNet_PluralSight\FundamentalsWithVisualStudio2015\Grades\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache

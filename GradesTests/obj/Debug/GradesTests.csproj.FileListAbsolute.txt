@@ -1,0 +1,15 @@
+C:\Code\dotNet_PluralSight\FundamentalsWithVisualStudio2015\Grades\Grades\GradesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Code\dotNet_PluralSight\FundamentalsWithVisualStudio2015\Grades\Grades\GradesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Code\dotNet_PluralSight\FundamentalsWithVisualStudio2015\Grades\Grades\GradesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Code\dotNet_PluralSight\FundamentalsWithVisualStudio2015\Grades\Grades\GradesTests\bin\Debug\GradesTests.dll
+C:\Code\dotNet_PluralSight\FundamentalsWithVisualStudio2015\Grades\Grades\GradesTests\bin\Debug\GradesTests.pdb
+C:\Code\dotNet_PluralSight\FundamentalsWithVisualStudio2015\Grades\Grades\GradesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Code\dotNet_PluralSight\FundamentalsWithVisualStudio2015\Grades\Grades\GradesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Code\dotNet_PluralSight\FundamentalsWithVisualStudio2015\Grades\Grades\GradesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Code\dotNet_PluralSight\FundamentalsWithVisualStudio2015\Grades\Grades\GradesTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Code\dotNet_PluralSight\FundamentalsWithVisualStudio2015\Grades\Grades\GradesTests\obj\Debug\GradesTests.csprojResolveAssemblyReference.cache
+C:\Code\dotNet_PluralSight\FundamentalsWithVisualStudio2015\Grades\Grades\GradesTests\obj\Debug\GradesTests.dll
+C:\Code\dotNet_PluralSight\FundamentalsWithVisualStudio2015\Grades\Grades\GradesTests\obj\Debug\GradesTests.pdb
+C:\Code\dotNet_PluralSight\FundamentalsWithVisualStudio2015\Grades\Grades\GradesTests\bin\Debug\Grades.exe
+C:\Code\dotNet_PluralSight\FundamentalsWithVisualStudio2015\Grades\Grades\GradesTests\bin\Debug\Grades.pdb
+C:\Code\dotNet_PluralSight\FundamentalsWithVisualStudio2015\Grades\Grades\GradesTests\bin\Debug\Grades.exe.config
