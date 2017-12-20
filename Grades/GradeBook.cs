@@ -11,6 +11,7 @@ namespace Grades
         //ctor
         public GradeBook()
         {
+            _name = "Empty";
             grades = new List<float>();
         }
         public void AddGrade(float grade)
@@ -18,7 +19,6 @@ namespace Grades
             grades.Add(grade);
         }
 
-        List<float> grades;
         public GradeStatistics ComputeSatistics()
         {
             GradeStatistics stats = new GradeStatistics();
@@ -33,5 +33,24 @@ namespace Grades
             stats.AverageGrade = sum / grades.Count;
             return stats;
         }
+
+        public string Name {
+            get
+            {
+                return _name;
+            }
+            set
+            {
+                if (_name != value)
+                    NameChanged(_name, value);
+                if (!string.IsNullOrEmpty(value))
+                    _name = value;
+            }
+        }
+
+        public NameChangedDelegate NameChanged;
+
+        private string _name;
+        private List<float> grades;
     }
 }
