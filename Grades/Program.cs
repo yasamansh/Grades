@@ -16,8 +16,7 @@ namespace Grades
 
             GradeBook book = new GradeBook();
             book.NameChanged += new NameChangedDelegate(OnNameChanged);
-            book.NameChanged += new NameChangedDelegate(OnNameChanged);
-
+            
             book.Name = "Yasaman's Grade Book";
             book.Name = "Yasi's book";
 
