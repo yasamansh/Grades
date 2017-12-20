@@ -42,13 +42,19 @@ namespace Grades
             set
             {
                 if (_name != value)
-                    NameChanged(_name, value);
+                {
+                    NameChangedEventArgs args = new NameChangedEventArgs();
+                    args.ExeistingName = _name;
+                    args.newName = value;
+                    
+                    NameChanged(this, args);
+                }
                 if (!string.IsNullOrEmpty(value))
                     _name = value;
             }
         }
 
-        public NameChangedDelegate NameChanged;
+        public event NameChangedDelegate NameChanged;
 
         private string _name;
         private List<float> grades;
